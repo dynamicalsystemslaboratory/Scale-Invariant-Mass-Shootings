@@ -1,0 +1,213 @@
+Case,Date,City,State,Fatalities
+1,01/08/1966,Austin,Texas,17
+2,12/11/1966,Mesa,Arizona,5
+3,23/10/1967,Lock Haven,Pennsylvania,6
+4,16/03/1968,Ironwood,Michigan,7
+5,05/04/1969,Harrisburg,Pennsylvania,4
+6,23/09/1970,Albany,New York,4
+7,29/05/1972,Raleigh,North Carolina,4
+8,21/06/1972,Cherry Hill,New Jersey,6
+9,07/01/1973,New Orleans,Louisiana,7
+10,10/02/1973,Santa Cruz,California,4
+11,02/03/1975,Smith River,California,5
+12,12/07/1976,Fullerton,California,7
+13,14/02/1977,New Rochelle,New York,5
+14,23/07/1977,Klamath Falls,Oregon,6
+15,26/08/1977,Hackettstown,New Jersey,6
+16,17/06/1978,Warwick,Rhode Island,5
+17,03/02/1980,El Paso,Texas,5
+18,22/06/1980,Daingerfield,Texas,5
+19,21/07/1980,Coraopolis,Pennsylvania,4
+20,07/05/1981,Salem,Oregon,5
+21,16/10/1981,Allen,Kentucky,5
+22,03/05/1982,Anchorage,Alaska,4
+23,09/08/1982,Grand Prairie,Texas,6
+24,20/08/1982,Miami,Florida,8
+26,03/02/1983,Manhattan,New York,4
+27,01/03/1983,McCarthy,Alaska,6
+28,11/10/1983,College Station,Texas,6
+29,17/05/1984,Manely Hot Springs,Alaska,8
+30,29/06/1984,Dallas,Texas,6
+31,18/07/1984,San Yisdro,California,21
+32,24/07/1984,Hot Springs,Arkansas,4
+33,16/03/1985,South Connellsville,Pennsylvania,4
+34,20/08/1986,Edmond,Oklahoma,14
+35,23/04/1987,Palm Bay,Florida,6
+36,16/02/1988,Sunnyvale,California,7
+37,17/07/1988,Winston-Salem,North Carolina,4
+38,22/09/1988,Chicago,Illinois,4
+39,17/01/1989,Stockton,California,5
+40,14/09/1989,Louisville,Kentucky,8
+41,18/06/1990,Jacksonville,Florida,11
+42,10/10/1991,Ridgewood,New Jersey,4
+43,16/10/1991,Killeen,Texas,23
+44,01/11/1991,Iowa City,Iowa,5
+45,10/11/1991,Harrodsburg,Kentucky,4
+46,14/11/1991,Royal Oak,Michigan,4
+47,15/03/1992,Phoenix,Arizona,4
+48,01/05/1992,Olivehurst,California,4
+49,15/10/1992,Watkins Glen,New York,4
+50,08/11/1992,Paso Robles,California,6
+51,01/07/1993,San Francisco,California,8
+52,08/07/1993,Jackson,Mississippi,5
+53,06/08/1993,Fayetteville,North Carolina,4
+54,14/10/1993,El Cajon,California,4
+55,02/12/1993,Oxnard,California,4
+56,07/12/1993,Garden City,New York,6
+57,14/12/1993,Auroroa,Colorado,4
+58,20/06/1994,Spokane,Washington,4
+59,31/12/1994,Hoke County,New York,5
+60,03/04/1995,Corpus Christi,Texas,5
+61,19/07/1995,Los Angeles,California,4
+62,19/12/1995,Bronx,New York,5
+63,09/02/1996,Fort Lauderdale,Florida,5
+64,25/04/1996,Jackson,Mississippi,5
+65,19/08/1997,Colebrook,New Hampshire,4
+66,15/09/1997,Aiken,South Carolina,4
+67,03/12/1997,Bartow,Florida,4
+68,18/12/1997,Orange,California,4
+69,06/03/1998,Newington,Connecticut,4
+70,24/03/1998,Jonesboro,Arkansas,5
+71,21/05/1998,Springfield,Oregon,4
+72,10/03/1999,Gonzalez,Louisiana,4
+73,20/04/1999,Littleton,Colorado,13
+74,03/06/1999,Las Vegas,Nevada,4
+75,29/07/1999,Atlanta,Georgia,12
+76,15/09/1999,Fort Worth,Texas,7
+77,02/11/1999,Honolulu,Hawaii,7
+78,30/12/1999,Tampa,Florida,5
+79,20/03/2000,Irving,Texas,5
+80,28/04/2000,Pittsburgh,Pennsylvania,5
+81,26/12/2000,Wakefield,Massachusetts,7
+82,09/01/2001,Houston,Texas,4
+83,05/02/2001,Melrose Park,Illinois,4
+84,03/07/2001,Rifle,Colorado,4
+85,08/09/2001,Sacramento,California,5
+86,22/03/2002,South Bend,Indiana,4
+87,25/02/2003,Huntsville,Alabama,4
+88,08/07/2003,Meridian,Mississippi,6
+89,27/08/2003,Chicago,Illinois,6
+90,24/10/2003,Oldtown,Idaho,4
+91,03/07/2004,Kansas City,Kansas,5
+92,21/11/2004,Birchwood,Wisconsin,6
+93,08/12/2004,Columbus,Ohio,4
+94,11/03/2005,Atlanta,Georgia,4
+95,12/03/2005,Brookfield,Wisconsin,7
+96,21/03/2005,Red Lake,Minnesota,9
+97,29/08/2005,Sash,Texas,4
+98,30/01/2006,Goleta,California,7
+99,25/03/2006,Seattle,Washington,6
+100,21/05/2006,Baton Rouge,Louisiana,5
+101,02/10/2006,Nickel Mines,Pennsylvania,5
+102,12/02/2007,Salt Lake City,Utah,5
+103,16/04/2007,Blacksburg,Virginia,32
+104,07/10/2007,Crandon,Wisconsin,6
+105,05/12/2007,Omaha,Nebraska,8
+106,09/12/2007,Colorado Springs,Colorado,4
+107,07/02/2008,Kirkwood,Missouri,6
+108,14/02/2008,DeKalb,Illinois,5
+109,18/03/2008,Santa Maria,California,4
+110,25/06/2008,Henderson,Kentucky,5
+111,02/09/2008,Alger,Washington,6
+112,29/03/2009,Carthage,North Carolina,8
+113,03/04/2009,Binghamton,New York,13
+114,01/11/2009,Mount Airy,North Carolina,4
+115,05/11/2009,Fort Hood,Texas,13
+116,29/11/2009,Parkland,Washington,4
+117,03/04/2010,Los Angeles,California,4
+118,06/06/2010,Hialeah,Florida,4
+119,03/08/2010,Manchester,Connecticut,8
+120,14/08/2010,Buffalo,New York,4
+121,11/09/2010,Jackson,Mississippi,5
+122,08/01/2011,Tucson,Arizona,6
+123,02/06/2011,Yuma,Arizona,5
+124,23/07/2011,Grand Prarie,Texas,5
+125,07/08/2011,Copley Township,Ohio,7
+126,06/09/2011,Carson City,Nevada,4
+127,12/10/2011,Seal Beach,California,8
+128,21/02/2012,Norcross,Georgia,4
+129,02/04/2012,Oakland,California,7
+130,30/05/2012,Seattle,Washington,5
+131,20/07/2012,Aurora,Colorado,12
+132,05/08/2012,Oak Creek,Wisconsin,6
+133,27/09/2012,Minneapolis,Minnesota,6
+134,14/12/2012,Newtown,Connecticut,27
+135,13/03/2013,Herkimer,New York,4
+136,21/04/2013,Federal Way,Washington,4
+137,07/06/2013,Santa Monica,California,5
+138,26/07/2013,Hialeah,Florida,6
+139,16/09/2013,,"Washington, D.C.",12
+140,20/02/2014,Alturas,California,4
+141,23/05/2014,Santa Barbara,California,6
+142,24/10/2014,Marysville,Washington,4
+143,17/06/2015,Charleston,South Carolina,9
+144,16/07/2015,Chattanooga,Tennessee,5
+145,01/10/2015,Roseburg,Oregon,9
+146,15/11/2015,Anderson County,Texas,6
+147,02/12/2015,San Bernardino,California,14
+148,20/02/2016,Kalamazoo,Michigan,6
+149,09/03/2016,Wilkinsburg,Pennsylvania,6
+150,12/06/2016,Orlando,Florida,49
+151,29/06/2016,Las Vegas,Nevada,4
+152,07/07/2016,Dallas,Texas,5
+153,23/09/2016,Burlington,Washington,5
+154,06/01/2017,Fort Lauderdale,Florida,5
+155,06/02/2017,Yazoo City,Mississippi,4
+156,22/03/2017,Rothschild,Wisconsin,4
+157,05/06/2017,Orlando,Florida,5
+158,15/06/2017,Abiquiu,New Mexico,5
+159,01/10/2017,Las Vegas,Nevada,58
+160,05/11/2017,Sutherland Springs,Texas,26
+161,14/11/2017,Rancho Tehama,California,5
+162,28/01/2018,Melcroft,Pennsylvania,4
+163,14/02/2018,Parkland,Florida,17
+164,26/02/2018,Detroit,Michigan,4
+165,22/04/2018,Antioch,Tennessee,4
+166,18/05/2018,Santa Fe,Texas,10
+167,28/06/2018,Annapolis,Maryland,5
+168,12/09/2018,Bakersfield,California,5
+169,27/10/2018,Pittsburgh,Pennsylvania,11
+170,07/11/2018,Thousand Oaks,California,12
+171,23/01/2019,Sebring,Florida,5
+172,15/02/2019,Aurora,Illinois,5
+173,31/05/2019,Virginia Beach,Virginia,12
+174,21/06/2019,Santa Maria,California,4
+175,25/07/2019,Los Angeles,California,4
+176,03/08/2019,El Paso,Texas,22
+177,04/08/2019,Dayton,Ohio,9
+178,31/08/2019,Odessa,Texas,7
+179,06/10/2019,Kansas City,Kansas,4
+181,10/12/2019,Jersey City,New Jersey,4
+182,26/02/2020,Milwaukee,Wisconsin,5
+183,15/03/2020,Springfield,Missouri,4
+184,11/06/2020,Monroe,Louisiana,5
+187,09/01/2021,Chicago,Illinois,5
+188,16/03/2021,Atlanta,Georgia,8
+189,22/03/2021,Boulder,Colorado,10
+190,29/03/2021,Essex,Maryland,4
+191,31/03/2021,Orange,California,4
+192,08/04/2021,Rock Hill,South Carolina,6
+193,15/04/2021,Indianapolis,Indiana,8
+,09/05/2021,Colorado Springs,Colorado,6
+194,26/05/2021,San Jose,California,9
+207,30/11/2021,Oxford,Michigan,4
+208,27/12/2021,Denver,Colorado,5
+213,28/02/2022,Sacramento,California,4
+218,14/05/2022,Buffalo,New York,10
+219,24/05/2022,Uvalde,Texas,21
+221,01/06/2022,Tulsa,Oklahoma,4
+223,04/07/2022,Highland Park,Illinois,7
+233,13/10/2022,Raleigh,North Carolina,5
+240,19/11/2022,Colorado Springs,Colorado,5
+242,22/11/2022,Chesapeake,Virginia,6
+247,21/01/2023,Monterey Park,California,11
+248,23/01/2023,Half Moon Bay,California,7
+257,27/03/2023,Nashville,Tennessee,6
+258,10/04/2023,Louisville,Kentucky,5
+265,06/05/2023,Allen,Texas,8
+270,03/07/2023,Philadelphia,Pennsylvania,5
+271,15/07/2023,Hampton,Georgia,4
+275,25/10/2023,Lewiston,Maine,18
+293,21/06/2024,Fordyce,Arkansas,4
+301,02/09/2024,Forest Park,Illinois,4
+302,04/09/2024,Winder,Georgia,4
